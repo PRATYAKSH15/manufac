@@ -4,7 +4,11 @@ An interactive, high-performance data visualization dashboard built for the **Ma
 
 This application analyzes and visualizes historical **Retail Selling Price (RSP) of Petrol and Diesel in Metro Cities** using the raw `metro.csv` dataset from the **National Data and Analytics Platform (NDAP), NITI Aayog**.
 
-![Dashboard Screenshot](./screenshots/dashboard.png)
+## 📸 Dashboard Screenshots
+
+![Dashboard Overview](./screenshots/image-1.png)
+
+![Dashboard Visualization](./screenshots/image-2.png)
 
 ---
 
@@ -71,7 +75,8 @@ d:/Assignments/Manufac/
 ├── public/
 │   └── dataset.csv             # Public dataset asset
 ├── screenshots/
-│   └── dashboard.png           # Dashboard UI screenshot
+│   ├── image-1.png             # Dashboard UI overview screenshot
+│   └── image-2.png             # Dashboard chart & metrics screenshot
 ├── src/
 │   ├── components/
 │   │   ├── DashboardHeader.tsx # Header title and subtitle component
