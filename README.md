@@ -130,3 +130,10 @@ Compiles TypeScript and creates an optimized production bundle in the `dist/` di
 ```bash
 yarn preview
 ```
+
+---
+
+## 🌐 Live Demo & Deployment
+
+* **Live Demo**: [https://manufac-two.vercel.app/](https://manufac-two.vercel.app/)
+
